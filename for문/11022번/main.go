@@ -14,8 +14,8 @@ func main() {
 	fmt.Fscanln(reader, &t)
 	defer writer.Flush()
 
-	for i := 0; i < t; i++ {
+	for i := 1; i <= t; i++ {
 		fmt.Fscanln(reader, &a, &b)
-		fmt.Fprintf(writer, "Case #%d: %d + %d = %d\n", i+1, a, b, a+b)
+		fmt.Fprintf(writer, "Case #%d: %d + %d = %d\n", i, a, b, a+b)
 	}
 }
