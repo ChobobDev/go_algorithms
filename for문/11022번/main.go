@@ -2,19 +2,20 @@ package main
 
 import (
 	"bufio"
-	"fmt"
 	"os"
+	"strconv"
+	"strings"
 )
 
 func main() {
 	var t, a, b int
 	reader := bufio.NewReader(os.Stdin)
 	writer := bufio.NewWriter(os.Stdout)
-	defer writer.Flush()
 	fmt.Fscanln(reader, &t)
+	defer writer.Flush()
 
-	for i := 1; i <= t; i++ {
+	for i := 0; i < t; i++ {
 		fmt.Fscanln(reader, &a, &b)
-		fmt.Fprintf(writer, "Case #%d: %d\n", i, a+b)
+		fmt.Fprintf(writer, "Case #%d: %d + %d = %d\n", i+1, a, b, a+b)
 	}
 }
