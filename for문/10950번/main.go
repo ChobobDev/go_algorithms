@@ -7,8 +7,10 @@ import (
 func main () {
 	var a int
 	fmt.Scanf("%d",&a)
-	for i := 1; i < 10; i++ {
-		fmt.Printf("%d * %d = %d\n",a,i,a*i)
+	for i := 0; i < a; i++ {
+		var a,b int
+		fmt.Scanf("%d %d",&a,&b)
+		fmt.Println(a+b)
 	}
 
 }
