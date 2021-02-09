@@ -18,5 +18,5 @@ GO Algorithms Prep
 ***
 |             Level 1             |   완료일   |       Github Link      |  
 | :---------------------------: |:-----:|:--------------------: | 
-|         짝수와 홀수        |2021/02/09 |[:link:](./programmers/level1/짝수와_홀수) |
+|         짝수와 홀수        |2021/02/09 |[:link:](./programmers/level_1/짝수와_홀수) |
 
