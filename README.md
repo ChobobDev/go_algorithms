@@ -18,6 +18,7 @@ GO Algorithms Prep
 ***
 |             Level 1             |   완료일   |       Github Link      |  
 | :---------------------------: |:-----:|:--------------------: | 
-|         짝수와 홀수        |2021/02/09 |[:link:](./programmers/level_1/짝수와_홀수) |
-|         평균 구하기        |2021/02/10 |[:link:](./programmers/level_1/평균_구하기) |
+|         짝수와 홀수        |2021/02/09 |[:link:](./programmers/level_1/짝수와_홀수.go) |
+|         평균 구하기        |2021/02/10 |[:link:](./programmers/level_1/평균_구하기.go) |
+|         휴대폰 번호 가리기        |2021/02/10 |[:link:](./programmers/level_1/휴대폰_번호_가리기.go) |
 
