@@ -29,4 +29,5 @@ GO Algorithms Prep
 |         이상한 문자 만들기        |2021/02/10 |[:link:](./programmers/level_1/이상한_문자_만들기.go) |
 |         자연수 뒤집어 배열로 만들기        |2021/02/10 |[:link:](./programmers/level_1/자연수_뒤집어_배열로_만들기.go) |
 |         문자열 내림차순으로 배치하기       |2021/02/10 |[:link:](./programmers/level_1/문자열_내림차순으로_배치하기.go) |
+|         k번째 수       |2021/02/10 |[:link:](./programmers/level_1/k번째수.go) |
 
