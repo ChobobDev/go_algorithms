@@ -30,5 +30,6 @@ GO Algorithms Prep
 |         자연수 뒤집어 배열로 만들기        |2021/02/10 |[:link:](./programmers/level_1/자연수_뒤집어_배열로_만들기.go) |
 |         문자열 내림차순으로 배치하기       |2021/02/10 |[:link:](./programmers/level_1/문자열_내림차순으로_배치하기.go) |
 |         k번째 수       |2021/02/10 |[:link:](./programmers/level_1/k번째수.go) |
-|         직사각형 별찍기       |2021/02/10 |[:link:](./programmers/level_1/직사각형_별찍기.go) |
+|         직사각형 별찍기       |2021/02/11 |[:link:](./programmers/level_1/직사각형_별찍기.go) |
+|         형렬의 덧셈    |2021/02/11 |[:link:](./programmers/level_1/행렬의_덧셈.go) |
 
