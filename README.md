@@ -26,4 +26,5 @@ GO Algorithms Prep
 |         두 정수 사이의 합        |2021/02/10 |[:link:](./programmers/level_1/두_정수_사이의_합.go) |
 |         수박수박수박수박수박수?        |2021/02/10 |[:link:](./programmers/level_1/수박수박수박수박수박수.go) |
 |         제일 작은 수 제거하기        |2021/02/10 |[:link:](./programmers/level_1/제일_작은_수_제거하기.go) |
+|         이상한 문자 만들기        |2021/02/10 |[:link:](./programmers/level_1/이상한_문자_만들기.go) |
 
