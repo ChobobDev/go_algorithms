@@ -27,4 +27,5 @@ GO Algorithms Prep
 |         수박수박수박수박수박수?        |2021/02/10 |[:link:](./programmers/level_1/수박수박수박수박수박수.go) |
 |         제일 작은 수 제거하기        |2021/02/10 |[:link:](./programmers/level_1/제일_작은_수_제거하기.go) |
 |         이상한 문자 만들기        |2021/02/10 |[:link:](./programmers/level_1/이상한_문자_만들기.go) |
+|         자연수 뒤집어 배열로 만들기        |2021/02/10 |[:link:](./programmers/level_1/자연수_뒤집어_배열로_만들기.go) |
 
