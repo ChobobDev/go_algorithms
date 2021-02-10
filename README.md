@@ -22,4 +22,5 @@ GO Algorithms Prep
 |         평균 구하기        |2021/02/10 |[:link:](./programmers/level_1/평균_구하기.go) |
 |         핸드폰 번호 가리기        |2021/02/10 |[:link:](./programmers/level_1/핸드폰_번호_가리기.go) |
 |         2016년        |2021/02/10 |[:link:](./programmers/level_1/2016년.go) |
+|         문자열을 정수로 바꾸기        |2021/02/10 |[:link:](./programmers/level_1/문자열_정수로_바꾸기.go) |
 
