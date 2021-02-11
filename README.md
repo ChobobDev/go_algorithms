@@ -18,7 +18,7 @@ GO Algorithms Prep
 ***
 |             Level 1             |   완료일   |       Github Link      |  
 | :---------------------------: |:-----:|:--------------------: | 
-|         짝수와 홀수        |2021/02/09 |[:link:](./programmers/level_1/짝수와_홀수.go) |
+|짝수와 홀수|2021/02/09 |[:link:](./programmers/level_1/짝수와_홀수.go) |
 |         평균 구하기        |2021/02/10 |[:link:](./programmers/level_1/평균_구하기.go) |
 |         핸드폰 번호 가리기        |2021/02/10 |[:link:](./programmers/level_1/핸드폰_번호_가리기.go) |
 |         2016년        |2021/02/10 |[:link:](./programmers/level_1/2016년.go) |
@@ -38,4 +38,5 @@ GO Algorithms Prep
 |         문자열 다루기 기본   |2021/02/11 |[:link:](./programmers/level_1/문자열_다루기_기본.go) |
 |         내적   |2021/02/11 |[:link:](./programmers/level_1/내적.go) |
 |         나누어 떨어지는 숫자 배열   |2021/02/11 |[:link:](./programmers/level_1/나누어_떨어지는_숫자_배열.go) |
+|x만큼 간격이 있는 n개의 숫자|2021/02/11 |[:link:](./programmers/level_1/x만큼_간격이_있는_n개의_숫자.go) |
 
