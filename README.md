@@ -22,7 +22,7 @@ GO Algorithms Prep
 |평균 구하기|2021/02/10 |[:link:](./programmers/level_1/평균_구하기.go) |
 |핸드폰 번호 가리기|2021/02/10 |[:link:](./programmers/level_1/핸드폰_번호_가리기.go) |
 |2016년|2021/02/10 |[:link:](./programmers/level_1/2016년.go) |
-|문자열을 정수로 바꾸기|2021/02/10 |[:link:](./programmers/level_1/문자열_정수로_바꾸기.go) |
+|문자열을 정수로 바꾸기|2021/02/10 |[:link:](./programmers/level_1/문자열을_정수로_바꾸기.go) |
 |두 정수 사이의 합|2021/02/10 |[:link:](./programmers/level_1/두_정수_사이의_합.go) |
 |수박수박수박수박수박수?|2021/02/10 |[:link:](./programmers/level_1/수박수박수박수박수박수.go) |
 |제일 작은 수 제거하기|2021/02/10 |[:link:](./programmers/level_1/제일_작은_수_제거하기.go) |
