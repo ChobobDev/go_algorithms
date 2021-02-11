@@ -39,4 +39,5 @@ GO Algorithms Prep
 |내적|2021/02/11 |[:link:](./programmers/level_1/내적.go) |
 |나누어 떨어지는 숫자 배열|2021/02/11 |[:link:](./programmers/level_1/나누어_떨어지는_숫자_배열.go) |
 |x만큼 간격이 있는 n개의 숫자|2021/02/11 |[:link:](./programmers/level_1/x만큼_간격이_있는_n개의_숫자.go) |
+|정수 제곱근 판별|2021/02/11 |[:link:](./programmers/level_1/정수_제곱근_판별.go) |
 
