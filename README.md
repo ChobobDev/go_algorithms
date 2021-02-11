@@ -32,4 +32,5 @@ GO Algorithms Prep
 |         k번째 수       |2021/02/10 |[:link:](./programmers/level_1/k번째수.go) |
 |         직사각형 별찍기       |2021/02/11 |[:link:](./programmers/level_1/직사각형_별찍기.go) |
 |         형렬의 덧셈    |2021/02/11 |[:link:](./programmers/level_1/행렬의_덧셈.go) |
+|         서울에서 김서방 찾기    |2021/02/11 |[:link:](./programmers/level_1/서울에서_김서방_찾기.go) |
 
