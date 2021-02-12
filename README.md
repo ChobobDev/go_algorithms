@@ -44,4 +44,5 @@ GO Algorithms Prep
 |콜라스 추측|2021/02/12 |[:link:](./programmers/level_1/콜라스_추측.go) |
 |정수 내림차순으로 배치하기|2021/02/12 |[:link:](./programmers/level_1/정수_내림차순으로_배치하기.go) |
 |문자열 내 마음대로 정렬하기|2021/02/12 |[:link:](./programmers/level_1/문자열_내_마음대로_정렬하기.go) |
+|모의고사|2021/02/13 |[:link:](./programmers/level_1/모의고사.go) |
 
