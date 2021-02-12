@@ -41,4 +41,5 @@ GO Algorithms Prep
 |x만큼 간격이 있는 n개의 숫자|2021/02/11 |[:link:](./programmers/level_1/x만큼_간격이_있는_n개의_숫자.go) |
 |정수 제곱근 판별|2021/02/11 |[:link:](./programmers/level_1/정수_제곱근_판별.go) |
 |하사드 수|2021/02/12 |[:link:](./programmers/level_1/하사드_수.go) |
+|콜라스 추측|2021/02/12 |[:link:](./programmers/level_1/콜라스_추측.go) |
 
