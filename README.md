@@ -19,3 +19,4 @@ GO Algorithms Prep
 |             Level             |   완료일   |       Github Link      | 
 | :---------------------------: |:-----:|:--------------------: | 
 |Level 1|2021/02/13 |[:link:](./programmers/level_1) |
+|Level 2|~ |[:link:](./programmers/level_2 |
